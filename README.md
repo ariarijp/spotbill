@@ -1,6 +1,24 @@
 # Spotbill
 
+[![Circle CI](https://circleci.com/gh/ariarijp/spotbill.svg?style=svg)](https://circleci.com/gh/ariarijp/spotbill)
+
 `tail` for PHP.
+
+## Installation
+
+Add these lines to your `composer.json`.
+
+```json
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/ariarijp/spotbill.git"
+    }
+],
+"require": {
+    "ariarijp/spotbill": "dev-master"
+}
+```
 
 ## Usage
 
