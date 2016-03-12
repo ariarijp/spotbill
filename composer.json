@@ -1,7 +1,7 @@
 {
     "name": "ariarijp/spotbill",
     "type": "library",
-    "description": "tail for PHP.",
+    "description": "tail -f for PHP.",
     "keywords": ["tail"],
     "license": "MIT",
     "homepage": "https://github.com/ariarijp/spotbill",

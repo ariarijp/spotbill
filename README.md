@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/ariarijp/spotbill.svg?style=svg)](https://circleci.com/gh/ariarijp/spotbill)
 
-`tail` for PHP.
+`tail -f` for PHP.
 
 ## Installation
 
