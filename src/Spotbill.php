@@ -118,6 +118,7 @@ class Spotbill
         }
 
         $fp = fopen($fileName, 'r');
+        fseek($fp, 0, SEEK_END);
 
         while (true) {
             sleep(self::$sleepSeconds);
